@@ -10,9 +10,9 @@ warnings.filterwarnings('ignore')
 show_pages(
     [
         Page("home.py", "Home", "🏠"),
-        Page("mps.py", "MPS", "📆"),
-        Page("mrp.py", "MRP", "🧮"),
-        Page("bom.py", "BOM", "🔩"),
+        Page("MPS.py", "MPS", "📆"),
+        Page("MRP.py", "MRP", "🧮"),
+        Page("BOM.py", "BOM", "🔩"),
     ]
 )
 
